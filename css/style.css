@@ -1,0 +1,47 @@
+/*header start*/
+header{
+	padding-top: 64px;
+	padding-left: 132px;
+	margin-bottom: 277px;
+
+}
+.header-flex{
+	margin: 0 auto;
+	display: flex;
+	justify-content: space-around;
+	
+}
+.header-logo {
+	margin-right: 730px;
+
+}
+.flex-item{
+	margin-right: 55px;
+
+
+}
+	
+
+
+ 
+/*header end*/
+/*header start*/
+.section-1-container{
+	padding-left: 132px;
+
+}
+.section-1-text-1{
+	font-size: 78px;
+}
+.wave-me{
+	width: 263px;
+	background-color: mediumpurple;
+	border-radius: 38%;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	
+}
+.wave-me-text{
+
+}
